@@ -854,4 +854,36 @@ footer{
         border-top-style: solid;
         width: 50px;
     }
+
+    .tableheader{
+        text-align: left;
+        padding: 20px;
+        border-bottom-color: #2710d5;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        width: 50px;
+    }
+
+    .cell{
+        padding: 20px;
+        border-bottom-color: #ececec;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+    }
+
+    .cell-first{
+        padding: 20px;
+        border-bottom-color: #ececec;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-top-color: #ececec;
+        border-top-width: 1px;
+        border-top-style: solid;
+    }
+
+    #company > iframe{
+        width: 100%;
+        height: 240px;
+        margin: 40px 0 0 0;
+    }
 }
